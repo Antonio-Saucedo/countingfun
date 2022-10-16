@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counting Fun</string>
+    <string name="content_desc_background">background</string>
+    <string name="content_desc_little_monster">little_monster</string>
+    <string name="content_desc_add_monster">add_monster</string>
+    <string name="content_desc_card">card</string>
+</resources>
